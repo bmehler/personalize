@@ -9,3 +9,6 @@ Zu allererst könnt Ihr euch die Screenshots ansehen und prüfen, ob das Plugin 
 Für eine ordnungsgemäße Darstellung auf unterschiedlichen Geräten, habe ich ein responsives Design eingebunden.
 
 ##Screenshots
+
+![alt text](https://github.com/bmehler/personalize/raw/master/screenshots/screenshot1.jpg "Job offers")
+

@@ -1,13 +1,15 @@
 JQuery Plugin personalize.js
 ============================
 
-Mit diesem Plugin können Sie Ihre Jobofferten personalisieren. Das Plugin besteht aus der Datei personalize.js sowie einer Datei script.js, welche das Plugin aufruft. Zur Darstellung der einzelnen Jobofferten wird die Datei index.html sowie styles.css verwendet.
+Mit diesem Plugin könnt Ihr eure Jobofferten personalisieren. Das Plugin besteht aus der Datei personalize.js sowie script.js, mit welcher das Plugin initialisiert wird. Zur Darstellung der einzelnen Jobofferten wird die Datei index.html sowie styles.css verwendet.
 
 Wie Ihr das Plugin einsetzen könnt, möchte ich in den nachfolgenden Schritten erklären.
 Zu allererst könnt Ihr euch die Screenshots ansehen und prüfen, ob das Plugin für euch in Frage kommt.
 
 Für eine ordnungsgemäße Darstellung auf unterschiedlichen Geräten, habe ich ein responsives Design eingebunden.
-Hierbei wurde der mobile first Ansatz verwendet. Die Media-Queries haben eine min-with von 768px, 992px, 1200px.
+Hierbei wurde der "Mobile First" Ansatz verwendet. Die Media-Queries haben eine min-with von 768px, 992px, 1200px.
+Für eine Änderung passt Ihr einfach die Sassfiles _mobil.scss, _tablet.scss, _desktop.scss und _desktoplarge.scss euren
+Wünschen an.
 
 ##Screenshots
 
@@ -49,7 +51,7 @@ Die einzelen Offerten werden dann nochmals umschlossen.
 
 ###script.js
 
-Die personalisierten Antworten fügt ihr gemäß eurer Offerenreihenfolge dem Array headers hinzu.
+Die personalisierten Antworten fügt ihr gemäß eurer Offertenreihenfolge dem Array headers hinzu.
 ```Javascript
 $( document ).ready(function() {
    $('h3').personalize({
@@ -57,3 +59,5 @@ $( document ).ready(function() {
    });
 });
 ```
+
+Ich wünsche euch mit dem Plugin viel Spass!

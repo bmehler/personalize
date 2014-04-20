@@ -27,3 +27,11 @@ Die Jobofferten bindet ihr wie folgt ein. Für jede Offerte erstellt ihr einfach
         <div class="extend">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus, commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.1</div>
 </div>
 ```
+
+Die einzelen Offerten werden dann nochmals umschlossen.
+```HTML
+<div class="offers">
+<h1>Unsere Stellenagebote</h1>
+      <div class="offer">...</div> 
+</div>
+```

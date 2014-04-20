@@ -54,7 +54,7 @@ Die einzelen Offerten werden dann nochmals umschlossen.
 
 ###script.js
 
-Die personalisierten Antworten fügt ihr gemäß eurer Offertenreihenfolge dem Array headers hinzu.
+Die personalisierte Antwort, welche bei einem Click erscheint, fügt ihr gemäß eurer Offertenreihenfolge dem Array headers hinzu.
 ```Javascript
 $( document ).ready(function() {
    $('h3').personalize({

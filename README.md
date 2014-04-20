@@ -23,8 +23,8 @@ Hierbei wurde der mobile first Ansatz verwendet. Die Media-Queries haben eine mi
 Die Jobofferten bindet ihr wie folgt ein. Für jede Offerte erstellt ihr einfach folgendes div.
 ```HTML
 <div class="offer">
-         <h3>PHP-Entwickler</h3>
-        <div class="extend">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus, commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.1</div>
+    <h3>PHP-Entwickler</h3>
+    <div class="extend">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus, commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.1</div>
 </div>
 ```
 
@@ -32,6 +32,18 @@ Die einzelen Offerten werden dann nochmals umschlossen.
 ```HTML
 <div class="offers">
 <h1>Unsere Stellenagebote</h1>
-      <div class="offer">...</div> 
+    <div class="offer">...</div> 
 </div>
 ```
+
+###script.js
+
+Die personalisierten Antworten fügt ihr gemäß eurer Offerenreihenfolge dem Array headers hinzu.
+```Javascript
+$( document ).ready(function() {
+   $('h3').personalize({
+   headers: ['In PHP fit? Wir freuen uns auf dich!', 'JQuery ist dir bekannt?']
+});
+```
+});
+

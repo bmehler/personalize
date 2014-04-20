@@ -20,7 +20,9 @@ Hierbei wurde der mobile first Ansatz verwendet. Die Media-Queries haben eine mi
 
 ###index.html
 
-```<div class="offer">
+```HTML
+<div class="offer">
          <h3>PHP-Entwickler</h3>
         <div class="extend">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus, commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.1</div>
-</div>```
+</div>
+```

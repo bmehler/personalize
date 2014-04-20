@@ -1,0 +1,33 @@
+@media only screen and (min-width: 1200px) {
+
+.offers {
+margin: 0 auto;
+width: 60%;
+}
+
+h1 {
+font-family: $font;
+font-weight: $header-fontweight;
+font-size: 2.2em;
+color: $header-color;
+}
+
+h3 {
+font-family: $font;
+font-weight: $header-fontweight;
+font-size: 1.9em;
+color: $subheader-color;
+}
+
+.offer {
+background-color: $offer-bgcolor;
+color: $offer-color;
+margin-bottom: $offer-margin;
+padding: $offer-padding;
+}
+
+.extend {
+display:none;
+}
+
+}

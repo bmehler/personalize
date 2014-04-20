@@ -1,0 +1,30 @@
+.offers {
+margin: 0 auto;
+width: 90%;
+}
+
+h1 {
+font-family: $font;
+font-weight: $header-fontweight;
+font-size: 1.2em;
+color: $header-color;
+}
+
+h3 {
+font-family: $font;
+font-weight: $header-fontweight; 
+font-size: 1.0em;
+color: $subheader-color;
+}
+
+.offer {
+background-color: $offer-bgcolor;
+color: $offer-color;
+margin-bottom: $offer-margin;
+padding: $offer-padding;
+}
+
+.extend {
+display:none;
+}
+

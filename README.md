@@ -20,7 +20,7 @@ Hierbei wurde der mobile first Ansatz verwendet. Die Media-Queries haben eine mi
 
 ###index.html
 
-Im <head> Bereich müsst ihr jquery, das Plugin personalize.js sowie die script.js einbinden:
+Im head Bereich müsst ihr jquery, das Plugin personalize.js sowie die script.js einbinden:
 ```HTML
 <head>
 <meta charset="utf-8">

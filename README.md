@@ -33,12 +33,15 @@ Im head Bereich müsst ihr JQuery, das Plugin personalize.js sowie die script.js
    <script src="js/script.js"></script>
 </head>
 ```
-Die einzelnen Jobofferten bindet ihr wie folgt ein. Hierzu erstellt ihr für jede Offerte folgendes div.
+Eine Jobofferte bindet ir über folgendes div ein.
 ```HTML
+//Erste Offerte
 <div class="offer">
     <h3>PHP-Entwickler</h3>
     <div class="extend">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi malesuada, ante at feugiat tincidunt, enim massa gravida metus, commodo lacinia massa diam vel eros. Proin eget urna. Nunc fringilla neque vitae odio. Vivamus vitae ligula.1</div>
 </div>
+//Zweite Offerte
+<div class="offer">...</div>
 ```
 
 Die einzelen Offerten werden dann nochmals umschlossen.

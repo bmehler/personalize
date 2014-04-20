@@ -54,6 +54,6 @@ Die personalisierten Antworten fügt ihr gemäß eurer Offerenreihenfolge dem Ar
 $( document ).ready(function() {
    $('h3').personalize({
    headers: ['In PHP fit? Wir freuen uns auf dich!', 'JQuery ist dir bekannt?']
-});
+   });
 });
 ```

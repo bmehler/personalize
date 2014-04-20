@@ -22,7 +22,7 @@ Wünschen an.
 
 ###index.html
 
-Im head Bereich müsst ihr jquery, das Plugin personalize.js sowie die script.js einbinden:
+Im head Bereich müsst ihr JQuery, das Plugin personalize.js sowie die script.js einbinden:
 ```HTML
 <head>
    <meta charset="utf-8">

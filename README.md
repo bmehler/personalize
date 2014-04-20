@@ -1,2 +1,2 @@
-personalize
-===========
+JQuery Plugin personalize.js
+============================

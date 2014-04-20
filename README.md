@@ -25,12 +25,12 @@ Wünschen an.
 Im head Bereich müsst ihr jquery, das Plugin personalize.js sowie die script.js einbinden:
 ```HTML
 <head>
-<meta charset="utf-8">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700italic'>
-<link href='sassfiles/css/main.css' rel='stylesheet' type='text/css'>
-<script src="js/jquery-1.11.0.min.js"></script>
-<script src="js/personalize.js"></script>
-<script src="js/script.js"></script>
+   <meta charset="utf-8">
+   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700italic'>
+   <link href='sassfiles/css/main.css' rel='stylesheet' type='text/css'>
+   <script src="js/jquery-1.11.0.min.js"></script>
+   <script src="js/personalize.js"></script>
+   <script src="js/script.js"></script>
 </head>
 ```
 Die Jobofferten bindet ihr wie folgt ein. Für jede Offerte erstellt ihr einfach folgendes div.

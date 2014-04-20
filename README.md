@@ -33,7 +33,7 @@ Im head Bereich müsst ihr JQuery, das Plugin personalize.js sowie die script.js
    <script src="js/script.js"></script>
 </head>
 ```
-Eine Jobofferte bindet ir über folgendes div ein.
+Eine Jobofferte bindet ihr über folgendes div ein.
 ```HTML
 //Erste Offerte
 <div class="offer">

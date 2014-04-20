@@ -11,6 +11,4 @@ Für eine ordnungsgemäße Darstellung auf unterschiedlichen Geräten, habe ich 
 ##Screenshots
 =============
 
-![alt text](https://github.com/bmehler/personalize/screenshots/screenshot1.jpg "Screenshot 1")
-
-![alt text](https://github.com/bmehler/personalize/screenshots/screenshot2.jpg "Screenshot 2")
+[![I Love Open Source](http://www.iloveopensource.io/images/logo-lightbg.png)](http://www.iloveopensource.io/projects/524c55dcca7964c617000754)

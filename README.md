@@ -7,3 +7,8 @@ Wie Ihr das Plugin einsetzen könnt, möchte ich in den nachfolgenden Schritten 
 Zu allererst könnt Ihr euch die Screenshots ansehen und prüfen, ob das Plugin für euch in Frage kommt.
 
 Für eine ordnungsgemäße Darstellung auf unterschiedlichen Geräten, habe ich ein responsives Design eingebunden.
+
+##Screenshots
+
+![alt text](https://github.com/bmehler/personalize/raw/master/screenshots/screenshot1.jpg "Job offers")
+

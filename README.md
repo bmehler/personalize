@@ -20,6 +20,7 @@ Hierbei wurde der mobile first Ansatz verwendet. Die Media-Queries haben eine mi
 
 ###index.html
 
+Die Jobofferten bindet ihr wie folgt ein. Für jede Offerte erstellt ihr einfach folgendes div.
 ```HTML
 <div class="offer">
          <h3>PHP-Entwickler</h3>

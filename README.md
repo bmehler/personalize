@@ -20,6 +20,17 @@ Hierbei wurde der mobile first Ansatz verwendet. Die Media-Queries haben eine mi
 
 ###index.html
 
+Im <head> Bereich steht folgendes:
+```HTML
+<head>
+<meta charset="utf-8">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700italic' rel$
+<link href='sassfiles/css/main.css' rel='stylesheet' type='text/css'>
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/personalize.js"></script>
+<script src="js/script.js"></script>
+</head
+```
 Die Jobofferten bindet ihr wie folgt ein. Für jede Offerte erstellt ihr einfach folgendes div.
 ```HTML
 <div class="offer">

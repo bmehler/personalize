@@ -10,5 +10,3 @@ Für eine ordnungsgemäße Darstellung auf unterschiedlichen Geräten, habe ich 
 
 ##Screenshots
 =============
-
-(![Screenshot1](https://github.com/bmehler/personalize/screenshots/screeshot1.jpg))

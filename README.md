@@ -11,6 +11,6 @@ Für eine ordnungsgemäße Darstellung auf unterschiedlichen Geräten, habe ich 
 ##Screenshots
 =============
 
-![alt text](https://github.com/bmehler/personalize/blob/master/screenshots/screenshot1.jpg "Screenshot 1")
+![alt text](https://github.com/bmehler/personalize/screenshots/screenshot1.jpg "Screenshot 1")
 
-![alt text](https://github.com/bmehler/personalize/blob/master/screenshots/screenshot2.jpg "Screenshot 2")
+![alt text](https://github.com/bmehler/personalize/screenshots/screenshot2.jpg "Screenshot 2")
